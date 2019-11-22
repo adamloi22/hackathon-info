@@ -39,4 +39,3 @@ Fields:
 - AverageViews
 - historicalPopularityIndex
 
-source: https://www.nature.com/articles/sdata201575

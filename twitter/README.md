@@ -53,4 +53,3 @@ The following attributes are given (in this order):
 - Number of likes
 - Number of shares
 
-Source: https://dataverse.harvard.edu/dataset.xhtml?id=3047332

@@ -13,6 +13,5 @@ The columns in this dataset are:
 - POSTS ON HASHTAG: Posts on named hashtag, e.g. #barackobama.
 - MEDIA POSTED: Aggregate of media posted (posts, stories, comments, likes, etc.)
 
-Source: https://data.world/socialmediadata/most-followed-on-instagram
 
 

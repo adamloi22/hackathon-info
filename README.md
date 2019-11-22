@@ -19,7 +19,7 @@ Objectives:
 
 You have five minutes to present your work. Your presentation should include your conceptual design, methodology and results. You are also welcome to explain how you would extend your analysis with more time.
 
-This repository contains metadata that outlines the resources we will provide on the day. You are also welcome to use any data you source yourself.
+This repository contains metadata that outlines the resources we will provide on the day. You may also use any data you source yourself.
 
 Good luck,
 The Anmut Team
